@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@source "../views";
+@theme {
+    --color-cloud: #cfdee7;
+    --color-navy: #294861;
+    --color-forest: #2a454b;
+    --color-wave: #11d0ca;
+  }
