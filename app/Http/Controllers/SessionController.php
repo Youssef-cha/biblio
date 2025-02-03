@@ -23,6 +23,6 @@ class SessionController extends Controller
                 'email' => 'Invalid email or password'
             ]);
         }
-        return 'houssam sarbi rassek';
+        return redirect('/');
     }
 }
